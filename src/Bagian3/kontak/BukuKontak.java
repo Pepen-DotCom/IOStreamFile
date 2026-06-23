@@ -1,4 +1,4 @@
-package Bagian2.bacatulis;
+package Bagian3.kontak;
 
 import java.io.*;
 import java.util.ArrayList;
